@@ -49,4 +49,4 @@
 
 ## 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/navtej-singh-672074340
-- Portfolio: https://portfolio-navtej-singht.vercel.app/
+- Portfolio: https://navtej18.vercel.app/
